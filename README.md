@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi! 👋
+Hi! I'm Alice/Nikita, and I'm a linux enthusiast, who's currently learning bash, networking, docker etc.! 
 
 <!--
 **alice-thefox/alice-thefox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
