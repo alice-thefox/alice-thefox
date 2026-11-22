@@ -1,5 +1,12 @@
-## Hi! 👋
-Hi! I'm Alice/Nikita, and I'm a linux enthusiast, who's currently learning bash, networking, docker etc.! 
+# Hi, I'm Alice/Nikita
+
+Economics & Data Science student (University of Cassino), based in Latvia.
+Aiming for a junior Linux sysadmin / junior DevOps role.
+
+## Learning now
+Bash scripting · networking · Git → next: Docker, GitHub Actions, Ansible
+
+Languages: Russian (native), English (C1), Latvian (fluent), Italian (A1)
 
 <!--
 **alice-thefox/alice-thefox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
